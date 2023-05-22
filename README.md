@@ -1,6 +1,6 @@
 # A-Simple-Dice-Game
 
-It is just a simple game where two dice are rolled simultaneously and assigned to two different players
+It is just a simple game where two dice are rolled simultaneously and assigned to two different Players
 and the player with the higher number wins the round and can be played again just by refreshing it.
 
 ** The main objective of building this game was to practice beginner-level JavaScript like generating random numbers
