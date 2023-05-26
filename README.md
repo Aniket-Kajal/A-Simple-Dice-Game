@@ -7,4 +7,4 @@ and the player with the higher number wins the round and can be played again jus
 which can have further use in high-level websites like (refer: <a href="https://css-tricks.com/lots-of-ways-to-use-math-random-in-javascript/"> Math.randon function</a>) 
 as well as getting some practice in DOM manipulation like setAttributes and innerHTML. **
 
-Changes can be made in the HTML, CSS or JavaScript file here to change the page according to your need.
+Changes can be made in the HTML, CSS and JavaScript file here to change the page according to your need.
